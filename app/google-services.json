@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666299512707",
+    "project_id": "cablerouteing",
+    "storage_bucket": "cablerouteing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666299512707:android:662bc566604f445caa28b6",
+        "android_client_info": {
+          "package_name": "com.example.cablerouteing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMWma3EVoiRu1fsdzVCSKYsUuTCh6HYdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
